@@ -1,0 +1,2 @@
+# L2 Legends update manifest
+# One line per file: relative/path|sha1|size
